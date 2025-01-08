@@ -1,3 +1,5 @@
+# CRÉDITOS
+
 # Árvore Binária de Busca Balanceada (AVL)
 
 Esta pasta contém materiais relacionados ao estudo da Árvore AVL, incluindo explicações teóricas sobre inserção e remoção, todos os créditos devem ser dados ao **Prof. Flávio B. Gonzaga** (criador dos slides).
@@ -18,7 +20,11 @@ Esta pasta contém materiais relacionados ao estudo da Árvore AVL, incluindo ex
 
 Os códigos relacionados à prática da matéria **Algoritmos e Estruturas de Dados II** estão disponíveis na [pasta prática](./Prática). Esta pasta contém os trabalhos realizados durante as aulas e trabalhos práticos, que podem incluir a implementação da Árvore AVL e outras estruturas de dados.
 
+## Agradecimentos  
 
+Agradeço ao **Prof. Flávio B. Gonzaga** pela disponibilização de materiais didáticos.
+
+--- 
 
 
 
