@@ -1,7 +1,9 @@
 # Estruturas de Dados
+
 Pasta contendo implementações de diversas estruturas de dados fundamentais na computação. Este material abrange desde estruturas básicas até implementações mais complexas e otimizadas.
 
 ## [Árvores](./Árvores/)
+
 Esta pasta contém diferentes implementações de estruturas de árvore, cada uma com suas características específicas:
 
 ### 1. [Árvore AVL](./Árvores/Árvore%20AVL/)
@@ -35,6 +37,7 @@ Esta pasta contém diferentes implementações de estruturas de árvore, cada um
 - Garante complexidade O(log n) em operações
 
 ## [Listas Lineares](./Listas%20Lineares/)
+
 Implementações de estruturas de dados lineares:
 
 ### 1. [Alocação Sequencial](./Listas%20Lineares/Alocação%20Sequencial/)
@@ -48,13 +51,16 @@ Implementações de estruturas de dados lineares:
 - Alocação dinâmica de memória
 
 ## [Tabela Hash + Ordenação](./TabelaHash%20+Ordenação/)
-Conforme apresentado anteriormente, inclui:
+
+Implementações de algoritmos de ordenação e tabela hash:
+
 - [BubbleSort](./TabelaHash%20+Ordenação/BubbleSort/)
 - [HeapSort](./TabelaHash%20+Ordenação/HeapSort/)
 - [MergeSort](./TabelaHash%20+Ordenação/MergeSort/)
 - [Tabela Hash](./TabelaHash%20+Ordenação/Tabela%20Hash/)
 
 ## Características Gerais
+
 Cada implementação contém:
 - Código fonte comentado
 - Documentação explicativa
@@ -62,9 +68,31 @@ Cada implementação contém:
 - Exemplos de uso
 
 ## Como Utilizar
+
 1. Escolha a estrutura adequada para seu problema
 2. Acesse a pasta correspondente através dos links
 3. Consulte a documentação disponível
 4. Verifique os exemplos de implementação
+
+## Estrutura de Diretórios
+
+```
+.
+├── Árvores/
+│   ├── Árvore AVL/
+│   ├── Árvore B/
+│   ├── Árvore Binária de Busca/
+│   ├── Árvore de Partilha/
+│   ├── Árvore Heap/
+│   └── Árvore Rubro-Negra/
+├── Listas Lineares/
+│   ├── Alocação Sequencial/
+│   └── Alocação Encadeada/
+└── TabelaHash +Ordenação/
+    ├── BubbleSort/
+    ├── HeapSort/
+    ├── MergeSort/
+    └── Tabela Hash/
+```
 
 
