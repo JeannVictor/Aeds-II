@@ -18,7 +18,7 @@ Esta pasta contém materiais relacionados ao estudo da Árvore AVL, incluindo ex
 
 ### Implementação Prática
 
-Os códigos relacionados à prática da matéria **Algoritmos e Estruturas de Dados II** estão disponíveis na [pasta prática](./Prática). Esta pasta contém os trabalhos realizados durante as aulas e trabalhos práticos, que podem incluir a implementação da Árvore AVL e outras estruturas de dados.
+Os códigos relacionados à prática da matéria **Algoritmos e Estruturas de Dados II** estão disponíveis na [pasta prática](../../../Prática/). Esta pasta contém os trabalhos realizados durante as aulas e trabalhos práticos, que podem incluir a implementação da Árvore AVL e outras estruturas de dados.
 
 ## Agradecimentos  
 

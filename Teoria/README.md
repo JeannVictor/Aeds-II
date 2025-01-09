@@ -2,36 +2,36 @@
 
 Pasta contendo implementações de diversas estruturas de dados fundamentais na computação. Este material abrange desde estruturas básicas até implementações mais complexas e otimizadas.
 
-## [Árvores](./Árvores)
+## [Árvores](./Árvores%20/)
 
 Esta pasta contém diferentes implementações de estruturas de árvore, cada uma com suas características específicas:
 
-### 1. [Árvore AVL](./Árvores/Árvore%20AVL)
+### 1. [Árvore AVL](./Árvores%20/Árvore%20AVL/)
 - Árvore binária de busca auto-balanceada
 - Mantém diferença máxima de altura de 1 entre subárvores
 - Complexidade: O(log n) para operações básicas
 
-### 2. [Árvore B](./Árvores/Árvore%20B)
+### 2. [Árvore B](./Árvores%20/Árvore%20B/)
 - Árvore balanceada otimizada para sistemas de armazenamento
 - Permite que os nós tenham mais de dois filhos
 - Ideal para sistemas de arquivos e bancos de dados
 
-### 3. [Árvore Binária de Busca](./Árvores/Árvore%20Binária%20de%20Busca)
+### 3. [Árvore Binária de Busca](./Árvores%20/Árvore%20Binária%20de%20Busca/)
 - Estrutura hierárquica com no máximo dois filhos por nó
 - Elementos menores à esquerda, maiores à direita
 - Base para implementações mais complexas
 
-### 4. [Árvore de Partilha](./Árvores/Árvore%20de%20Partilha)
+### 4. [Árvore de Partilha](./Árvores%20/Árvore%20de%20Partilha/)
 - Especializada para armazenamento de strings
 - Eficiente para buscas de prefixos
 - Muito utilizada em dicionários e auto-complete
 
-### 5. [Árvore Heap](./Árvores/Árvore%20Heap)
+### 5. [Árvore Heap](./Árvores%20/Árvore%20Heap/)
 - Árvore binária com propriedade heap
 - Usada em filas de prioridade
 - Base para o algoritmo Heapsort
 
-### 6. [Árvore Rubro Negra](./Árvores/Árvore%20Rubro%20Negra)
+### 6. [Árvore Rubro Negra](./Árvores%20/Árvore%20Rubro%20Negra/)
 - Árvore binária de busca balanceada
 - Usa esquema de coloração para manter balanceamento
 - Garante complexidade O(log n) em operações
