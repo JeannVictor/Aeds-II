@@ -4,7 +4,7 @@
 
 Esta pasta contém materiais relacionados ao estudo da Árvore de partilha, incluindo explicações teóricas em um artigo compartilhado pelo **Prof. Flávio B. Gonzaga**, e um possível implementação.
 
-## Conteúdo
+## Conteúdo da Pasta
 
 ### Teoria
 

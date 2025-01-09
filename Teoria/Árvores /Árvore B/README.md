@@ -9,7 +9,7 @@ Esta pasta contém materiais relacionados ao estudo da Árvore B, incluindo expl
 **E-mail:** flavio.gonzaga@unifal-mg.edu.br  
 **Universidade Federal de Alfenas (UNIFAL-MG)**
 
-## Conteúdo
+## Conteúdo da Pasta
 
 ### Teoria
 

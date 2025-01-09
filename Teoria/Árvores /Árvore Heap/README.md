@@ -15,7 +15,7 @@ Esta pasta reúne materiais teóricos e práticos relacionados ao estudo de Árv
 
 ---
 
-## Conteúdo do Repositório  
+## Conteúdo da Pasta  
 
 ### 1. Materiais Teóricos  
 

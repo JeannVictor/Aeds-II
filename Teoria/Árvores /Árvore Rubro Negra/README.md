@@ -12,7 +12,7 @@ Esta pasta reúne materiais teóricos relacionados ao estudo das Árvores Rubro-
 
 ---
 
-## Conteúdo do Repositório  
+## Conteúdo da Pasta  
 
 ### 1. Materiais Teóricos
 
