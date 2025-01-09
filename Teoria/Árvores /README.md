@@ -2,7 +2,7 @@
 # Estruturas de Dados - Árvores
 Esta pasta contém implementações de diferentes tipos de árvores, cada uma com suas características e aplicações específicas. Estas estruturas são fundamentais para organização e manipulação eficiente de dados.
 ---
-## Conteúdo do Repositório
+## Conteúdo da Pasta
 
 ### 1. Árvore AVL
 - **[Árvore AVL](./Árvore%20AVL/)**  
