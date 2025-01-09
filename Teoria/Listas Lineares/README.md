@@ -1,10 +1,6 @@
-Aqui está uma sugestão de README para as duas pastas com links e descrições breves:  
-
----
-
 # Estruturas de Dados  
 
-Este pasta contém implementações práticas de estruturas de dados, divididas em duas categorias: **Alocação Encadeada** e **Alocação Sequencial**.  
+Esta pasta contém implementações práticas de estruturas de dados, divididas em duas categorias: **Alocação Encadeada** e **Alocação Sequencial**.  
 
 ---
 
@@ -37,4 +33,3 @@ Esta pasta contém implementações de estruturas de dados que utilizam vetores 
 3. Compile o arquivo com um compilador C (ex.: GCC) para executar.  
 
 ---
-
