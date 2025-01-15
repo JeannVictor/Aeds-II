@@ -2,6 +2,10 @@
 
 Bem-vindo ao repositório de [**Algoritmos e Estruturas de Dados II**](#-estrutura-do-repositório)!  
 Aqui você encontrará todas as minhas atividades realizadas durante a disciplina organizado em duas seções principais: uma [parte prática](#️-prática) com implementações de projetos, e uma [parte teórica](#-teoria) com estudos aprofundados de estruturas de dados fundamentais.
+---
+![Linguagem](https://img.shields.io/badge/Linguagem-C-blue)  ![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-green)
+
+---
 
 ## 📂 Estrutura do Repositório
 
@@ -10,32 +14,28 @@ Aqui você encontrará todas as minhas atividades realizadas durante a disciplin
 A pasta [Prática](./Prática) apresenta três projetos que implementam e analisam diferentes aspectos de estruturas de dados:
 
 #### 1. [Trabalho Prático 1 - Saída do Labirinto](./Prática/Trabalho%20I/) 🗺️
-Um desafio de implementação que utiliza:
-- [Algoritmos de pathfinding](./Prática/Trabalho%20I/main.c) para navegação em labirinto
-- Manipulação de matrizes 10x10
-- Técnicas de backtracking
-
-**Arquivos Principais:**
-- [`main.c`](./Prática/Trabalho%20I/main.c) - Implementação do algoritmo de resolução
-- [`descricao.pdf`](./Prática/Trabalho%20I/descricao.pdf) - Especificações detalhadas do projeto
-- [`Relatorio.pdf`](./Prática/Trabalho%20I/Relatorio.pdf) - Análise e documentação completa
-- [`Makefile`](./Prática/Trabalho%20I/Makefile) - Automatização da compilação
+Um desafio envolvendo a implementação de um algoritmo capaz de encontrar um caminho válido em um labirinto 10x10. O programa:
+- Analisa a estrutura do labirinto identificando paredes, caminhos livres e pontos especiais
+- Implementa estratégia de backtracking para explorar possíveis caminhos
+- Utiliza estruturas de dados auxiliares para rastrear o caminho percorrido
+- Garante encontrar o menor caminho possível entre entrada e saída
+- Lida com casos especiais como becos sem saída e múltiplos caminhos possíveis
 
 #### 2. [Trabalho Prático 2 - Comparação entre Árvores](./Prática/Trabalho%20II/) 🌳
-Análise comparativa aprofundada entre:
-- [Árvore Binária de Busca](./Teoria/Árvores/Árvore%20Binária%20de%20Busca/) (BST) tradicional
-- [Árvore AVL](./Teoria/Árvores/Árvore%20AVL/) com auto-balanceamento
-- Métricas de performance em diferentes operações
-
-**Componentes Principais:**
-- [`arvores.c`](./Prática/Trabalho%20II/arvores.c) e [`arvores.h`](./Prática/Trabalho%20II/arvores.h) - Implementação das estruturas
-- [`funcoes.c`](./Prática/Trabalho%20II/funcoes.c) - Funções auxiliares e utilitárias
-- Pasta [`instancias/`](./Prática/Trabalho%20II/instancias/) - Conjunto abrangente de casos de teste
+Estudo comparativo detalhado entre duas estruturas fundamentais de árvores, analisando:
+- Diferenças de performance entre BST e AVL em operações de:
+  - Inserção de elementos
+  - Remoção de nós
+  - Busca de valores
+  - Percursos (in-ordem, pré-ordem, pós-ordem)
+- Impacto do balanceamento automático da AVL
+- Comportamento com diferentes volumes de dados
+- Análise de casos específicos onde cada estrutura se destaca
 
 #### 3. [Trabalho Prático 3 - Ordenação de Structs](./Prática/Trabalho%20III/) 📊
 Implementação e análise comparativa de algoritmos clássicos:
-- [**Bubble Sort:**](./Teoria/TabelaHash%2BOrdenação/BubbleSort/) Ordenação por trocas sucessivas
-- [**Merge Sort:**](./Teoria/TabelaHash%2BOrdenação/MergeSort/) Ordenação por divisão e conquista
+- **Bubble Sort:** Ordenação por trocas sucessivas
+- **Merge Sort:** Ordenação por divisão e conquista
 - **Bucket Sort:** Ordenação por distribuição
 
 **Métricas Analisadas:**
@@ -49,12 +49,12 @@ A seção teórica abrange implementações detalhadas e análises de estruturas
 
 #### 1. [Árvores](./Teoria/Árvores/) 🌳
 Implementações completas de diferentes estruturas arbóreas:
-- [**Árvore AVL:**](./Teoria/Árvores/Árvore%20AVL/) Balanceamento automático com fator de altura
-- [**Árvore B:**](./Teoria/Árvores/Árvore%20B/) Otimizada para operações em disco
-- [**Árvore Binária de Busca:**](./Teoria/Árvores/Árvore%20Binária%20de%20Busca/) Implementação clássica com operações básicas
-- [**Árvore de Partilha:**](./Teoria/Árvores/Árvore%20de%20Partilha/) Especializada em manipulação de strings
-- [**Árvore Heap:**](./Teoria/Árvores/Árvore%20Heap/) Implementação de fila de prioridade
-- [**Árvore Rubro Negra:**](./Teoria/Árvores/Árvore%20Rubro%20Negra/) Balanceamento por propriedades de coloração
+- [**Árvore AVL:**](./Teoria/Árvores%20/Árvore%20AVL/) Balanceamento automático com fator de altura
+- [**Árvore B:**](./Teoria/Árvores%20/Árvore%20B/) Otimizada para operações em disco
+- [**Árvore Binária de Busca:**](./Teoria/Árvores%20/Árvore%20Binária%20de%20Busca/) Implementação clássica com operações básicas
+- [**Árvore de Partilha:**](./Teoria/Árvores%20/Árvore%20de%20Partilha/) Especializada em manipulação de strings
+- [**Árvore Heap:**](./Teoria/Árvores%20/Árvore%20Heap/) Implementação de fila de prioridade
+- [**Árvore Rubro Negra:**](./Teoria/Árvores%20/Árvore%20Rubro%20Negra/) Balanceamento por propriedades de coloração
 
 #### 2. [Listas Lineares](./Teoria/Listas%20Lineares/) 📝
 Duas abordagens fundamentais de implementação:
@@ -118,10 +118,14 @@ Este projeto está licenciado sob a [MIT License](./LICENSE). Consulte o arquivo
 - 📊 [Trabalho III - Ordenação](./Prática/Trabalho%20III)
 
 ### [Teoria](./Teoria)
-- 🌳 [Árvores](./Teoria/Árvores)
+- 🌳 [Árvores](./Teoria/Árvores%20/)
 - 📝 [Listas Lineares](./Teoria/Listas%20Lineares)
 - 🔍 [TabelaHash+Ordenação](./Teoria/TabelaHash%2BOrdenação)
 
 [⬆️ Voltar ao topo](#-aeds-ii---algoritmos-e-estruturas-de-dados-ii)
 
 ☮️ **Paz, Amor e Empatia!**
+
+
+
+

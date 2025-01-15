@@ -1,4 +1,4 @@
-# Estruturas de Dados
+# Pasta da Parte Teórica - AEDS 2
 
 Pasta contendo implementações de diversas estruturas de dados fundamentais na computação. Este material abrange desde estruturas básicas até implementações mais complexas e otimizadas.
 

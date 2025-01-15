@@ -1,4 +1,4 @@
-# Repositório de Trabalhos Práticos - AEDS 2
+# Pasta da Parte Prática - AEDS 2
 
 Bem-vindo ao repositório dos trabalhos práticos realizados na disciplina de Algoritmos e Estruturas de Dados II. Este repositório contém três projetos distintos, cada um abordando tópicos importantes estudados ao longo do curso.
 
